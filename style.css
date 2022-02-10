@@ -328,14 +328,14 @@ p {
 
 /* Projects section */
 #projects{
-	background-image: url(service.jpg);
+	background-image: url(faq.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
 }
 #projects .projects {
 	flex-direction: column;
-	max-width: 1200px;
+	max-width: 1800px;
 	margin: 0 auto;
 	padding: 100px 0;
 }
